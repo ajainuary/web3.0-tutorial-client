@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Directory Structure
+
+```
+.
+├── public - Contains all static content like images, libraries etc.
+└── src - Contains the source code for your frontend client
+    └── contracts - Contains the ABIs for your contracts (automatically generated from truffle build)
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
